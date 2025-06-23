@@ -1,5 +1,0 @@
----
-layout: none
----
-User-agent: *
-Sitemap: https://jiminchido.github.io/sitemap.xml
