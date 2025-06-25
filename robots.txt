@@ -2,4 +2,5 @@
 layout: none
 ---
 User-agent: *
-Sitemap: https://jiminchido.github.io/sitemap.xml
+Disallow:
+Sitemap: https://ongaram.github.io/chido/sitemap.xml
