@@ -1,6 +1,0 @@
----
-layout: none
----
-User-agent: *
-Disallow:
-Sitemap: https://ongaram.github.io/chido/sitemap.xml
